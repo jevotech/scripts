@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	/*background: #DDD;*/
-	background-image: url("../img/cover.jpg");
+	background-image: url("https://bin.isecurity.pw/img/cover.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
